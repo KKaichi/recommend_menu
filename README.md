@@ -1,2 +1,2 @@
-# recommend_menu
-Twitterで"献立悩む"とツイートしている人に対して，楽天レシピの献立を送るTwitterのBot
+# recommend_rakuten_menu
+楽天レシピの献立を投稿するTwitterのBot
